@@ -1,6 +1,6 @@
 # Open Source Front-end_ReactJS
 ![Developer](https://img.shields.io/badge/GabrielFSSantos-Front--end__ReactJS-blue)
-[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Front-end_ReactJS)](https://github.com/GabrielFSSantos/TypeScript/blob/master/LICENSE)
+[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Front-end_ReactJS)](https://github.com/GabrielFSSantos/Front-end_ReactJS/blob/master/LICENSE)
 
 > :wrench:  Front-end_ReactJS é um projeto base de um front-end em NodeJS e React, com codigo limpo e pronto para ser implementado. <br>
 > :books: O projeto foi desenvolvido com o intuito de exercitar meus conhecimentos de programação e para fins didáticos.
@@ -26,7 +26,7 @@
 * [StackEdit] - Excelente editor de Markdown online.
 
 ## License
-[MIT License](https://github.com/GabrielFSSantos/TypeScript/blob/master/LICENSE)
+[MIT License](https://github.com/GabrielFSSantos/Front-end_ReactJS/blob/master/LICENSE)
 
 [React]: <https://reactjs.org>
 [Node.js]: <https://nodejs.org/>
